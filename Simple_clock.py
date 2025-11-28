@@ -18,4 +18,8 @@ class MinimalClock(tk.Tk):
         self.after(1000, self.update_clock)
 
 if __name__ == '__main__':
+
     MinimalClock().mainloop()
+
+
+#Produce AmirHossein Taghizadeh
